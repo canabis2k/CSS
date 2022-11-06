@@ -1,0 +1,17 @@
+/* completed test task from Clickio */
+/* the colors were deliberately assigned part by words, and part by RGB */
+
+
+body { background-color: grey; } /* background */
+p { color: green; } /* main part */
+p:nth-child(2) { color: #0000FF; } /* Second */
+p:nth-child(4) { color: yellow; } /* Yellow */
+.hidden { display: none; } /* Hidden */
+p:nth-last-child(3) { color: purple; } /* penultimate */
+p:nth-last-child(2) { color: pink; } /* last */
+div p:only-child /* red in the center on the white background */ 
+  {
+  color: #FF0000;
+  text-align: center;
+  background-color: #FFFFFF;
+  }
