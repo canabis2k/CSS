@@ -1,7 +1,10 @@
 # CSS
 Completed test task for vacancy of the technical support specialist at Clickio
+
 Task https://jsfiddle.net/Clickio/72s0u93h
+
 Vacancy https://hh.ru/vacancy/70769468
+
 The text of the task in Russian:
 
 Ниже приведён пример HTML-кода (редактировать его нельзя!):
