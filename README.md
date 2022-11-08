@@ -3,7 +3,7 @@ Completed test task for vacancy of the technical support specialist at Clickio
 Task https://jsfiddle.net/Clickio/72s0u93h
 Vacancy https://hh.ru/vacancy/70769468
 The text of the task in Russian:
-<!--
+
 Ниже приведён пример HTML-кода (редактировать его нельзя!):
 Задача: написать CSS, который назначит на элементы следующие стили:
 - цвет фона страницы - серый
@@ -18,4 +18,4 @@ The text of the task in Russian:
 - Проверьте результат, нажав на кнопку "Run" (вверху)
 - Cохраните результат, нажав кнопку "save"
 - Cкопируйте ссылку на выполненное задание из адресной строки и приложите её в качестве ответа на задание на сайте hh.ru
--->
+
